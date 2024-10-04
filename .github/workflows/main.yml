@@ -1,4 +1,4 @@
-name: CI
+name: CI3sMWUVJyxaAiqdWYzifg
 on: [push, pull_request]
 
 jobs:
